@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning: Java, Phyton<br>🎯 Goals: Making mod and game<br>🎲 Fun fact: I once hate IT, but now I like it</p>
+<p data-importer="text" align="left">📚 I'm currently learning: Java, Phyton, C#<br>🎯 Goals: Making mod and game<br>🎲 Fun fact: I once hate IT, but now I like it</p>
 
 ###
 
